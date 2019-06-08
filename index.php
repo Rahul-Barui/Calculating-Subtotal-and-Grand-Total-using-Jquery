@@ -6,7 +6,7 @@
 <title>Subtotal & Grandtotal | Rahul Barui ( Php Developer ) </title>
 	
 	<!-- Use The Latest JQuery Library -->
-	
+	<script type="text/javascript" src="jquery-3.4.1.min.js"></script>
 	<script type="text/javascript">
             $(document).ready(function() {
 				$('.marks1,.subtotal,.marks2,.subtotal2,.marks3,.subtotal3').keyup(function () {
@@ -72,7 +72,7 @@
 		<h2 align="center"> <font color="#0000CC">Calculate Subtotal and Grandtotal Using JQuery (Keyup) </font></h2> 
 		<hr />
 		
-		<table id="table1"; cellspacing="5px" cellpadding="5%"; align="center">
+		<table cellspacing="5px" cellpadding="5%"; align="center">
 			<tr>  
 				<td  align="right" class="style1">Bengali :</td>  
 				<td class="style1"><input type="number" class="marks1" step="0.01" min="0" name="beng" /></td>  
