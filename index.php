@@ -74,22 +74,22 @@
 		
 		<table cellspacing="5px" cellpadding="5%"; align="center">
 			<tr>  
-				<td  align="right" class="style1">Bengali :</td>  
-				<td class="style1"><input type="number" class="marks1" step="0.01" min="0" name="beng" /></td>  
+				<td  align="right">Bengali :</td>  
+				<td><input type="number" class="marks1" step="0.01" min="0" name="beng" /></td>  
 			</tr>
 			<tr>  
               <td align="right">English :</td>  
-              <td><input type="number" name="eng" class="marks1" step="0.01" min="0" /></td>  
+              <td><input type="number" name="eng" step="0.01" min="0" /></td>  
 			  <td><input type="text" name="subtot" class="subtotal" id="subtot1" placeholder="Subtotal [ Beng+Eng ]" readonly="" tabindex="-1" /></td>  
        		</tr>
 			
 			<tr>  
-				<td  align="right" class="style1">Mathematics :</td>  
-				<td class="style1"><input type="number" class="marks2" step="0.01" min="0" name="math" /></td>  
+				<td  align="right">Mathematics :</td>  
+				<td><input type="number" class="marks2" step="0.01" min="0" name="math" /></td>  
 			</tr>
 			<tr>  
-				<td  align="right" class="style1">Life Science :</td>  
-				<td class="style1"><input type="number" class="marks2" step="0.01" min="0" name="lsc" /></td>  
+				<td  align="right">Life Science :</td>  
+				<td><input type="number" class="marks2" step="0.01" min="0" name="lsc" /></td>  
 			</tr>
 			<tr>  
               <td align="right">Phy Science :</td>  
@@ -98,8 +98,8 @@
        		</tr>
 			
 			<tr>  
-				<td  align="right" class="style1">History :</td>  
-				<td class="style1"><input type="number" class="marks3" step="0.01" min="0" name="hist" /></td>  
+				<td  align="right">History :</td>  
+				<td><input type="number" class="marks3" step="0.01" min="0" name="hist" /></td>  
 			</tr>
 			<tr>  
               <td align="right">Geography :</td>  
