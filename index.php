@@ -3,7 +3,7 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">	
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<title>Subtotal & Grandtotal | Rahul Barui ( Php Developer ) </title>
+<title>Subtotal & Grandtotal </title>
 	
 	<!-- Use The Latest JQuery Library -->
 	<script type="text/javascript" src="jquery-3.4.1.min.js"></script>
