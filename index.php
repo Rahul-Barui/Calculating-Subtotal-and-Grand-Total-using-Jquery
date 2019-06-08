@@ -120,12 +120,5 @@
 			
 		</table>
 		<hr />
-		
-		<h5 align="center"> <font color="#1B244C"> <b>
-			Github : github.com/Rahul-Barui <br />
-			Linked In : linkedin.com/in/rahul-barui-555651177 <br />
-			Stackoverflow : stackoverflow.com/story/rahulbarui <br />
-			Google : Rahul Barui
-		</b></font></h5> 
 </body>
 </html>
