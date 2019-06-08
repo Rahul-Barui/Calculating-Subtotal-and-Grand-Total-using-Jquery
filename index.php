@@ -114,8 +114,8 @@
        		</tr>
 			
 			<tr>  
-				<td> <input type="button" value="Submit" align="right"/>
-				<input type="button" value="Reset" /></td>  
+				<td> <input type="button" value="Save" align="right"/>
+				<input type="reset" value="Reset" /></td>  
         	</tr> 
 			
 		</table>
