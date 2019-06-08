@@ -72,7 +72,7 @@
 		<h2 align="center"> <font color="#0000CC">Calculate Subtotal and Grandtotal Using JQuery (Keyup) </font></h2> 
 		<hr />
 		
-		<table cellspacing="5px" cellpadding="5%"; align="center">
+		<table cellspacing="4px" cellpadding="4%"; align="center">
 			<tr>  
 				<td  align="right">Bengali :</td>  
 				<td><input type="number" class="marks1" step="0.01" min="0" name="beng" /></td>  
